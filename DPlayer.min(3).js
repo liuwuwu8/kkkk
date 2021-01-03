@@ -1545,10 +1545,10 @@
                 }
             }, {
                 text: "About author",
-                link: "https://diygod.me"
+                link: "https://www.baipiaozy.com/"
             }, {
-                text: "DPlayer v1.25.0",
-                link: "https://github.com/MoePlayer/DPlayer"
+                text: "白嫖资源",
+                link: "http://www.baipiaozy.com/"
             }]),
             e
         }
@@ -1977,7 +1977,7 @@
                 Bottom: "底部",
                 Rolling: "滚动",
                 "Input danmaku, hit Enter": "输入弹幕，回车发送",
-                "About author": "关于作者",
+                "About author": "白嫖资源采集网",
                 "DPlayer feedback": "播放器意见反馈",
                 "About DPlayer": "关于 DPlayer 播放器",
                 Loop: "洗脑循环",
